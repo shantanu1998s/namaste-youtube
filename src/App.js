@@ -1,6 +1,5 @@
 
 import './App.css';
-import NavBar from './components/header/NavBar';
 import Body from './components/body/Body';
 import { Provider } from 'react-redux';
 import store from './components/redux/store';
